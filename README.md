@@ -28,7 +28,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Front-end Developer based in Sherbrooke.
+I am a Front-end Developer based in Sherbrooke 🇨🇦.
 
 - :telescope: I’m currently working on a <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> web application that allows clients to customize there products.
 
@@ -36,7 +36,7 @@ I am a Front-end Developer based in Sherbrooke.
 
 - :zap: In my free time, i like to read and do sports.
 
-- :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kristopher-recinos-5592b160/) & <a href="https://exnihilomontreal.com/">Exnihilo Montréal </a>
+- :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kristopher-recinos-5592b160/) 👉 <a href="https://exnihilomontreal.com/">Exnihilo Montréal </a>
 
 ---
 
@@ -68,20 +68,3 @@ I am a Front-end Developer based in Sherbrooke.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriskros09&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<!--
-**kriskros09/kriskros09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
