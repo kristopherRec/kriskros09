@@ -36,7 +36,7 @@ I am a Front-end Developer based in Sherbrooke 🇨🇦.
 
 - :zap: In my free time, i like to read and do sports.
 
-- :question: Most of the projects I worked on are private repositories. If you wish to see what I can do please reach me and I will provide you with an access
+- :question: Most of the projects I worked on are private repositories. If you wish to see what I can do please reach me and I will provide you with an access.
 
 - :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kristopher-recinos-5592b160/) 👉 <a href="https://exnihilomontreal.com/">Exnihilo Montréal </a>
 
