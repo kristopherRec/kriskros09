@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/dwmNhd5H7YAz6/giphy.gif" width="300"/>
 </div>
 
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kristopher-recinos-5592b160/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -25,7 +24,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 
-
 ### :woman_technologist: About Me :
 
 I am a Front-end Developer based in Sherbrooke 🇨🇦.
@@ -38,7 +36,7 @@ I am a Front-end Developer based in Sherbrooke 🇨🇦.
 
 - :question: Most of the projects I worked on are private repositories. If you wish to see what I can do please reach me and I will provide you with an access.
 
-- :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kristopher-recinos-5592b160/) 👉 <a href="https://exnihilomontreal.com/">Exnihilo Montréal </a>
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kristopher-recinos-5592b160/)
 
 ---
 
@@ -66,7 +64,5 @@ I am a Front-end Developer based in Sherbrooke 🇨🇦.
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kriskros09&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriskros09&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
