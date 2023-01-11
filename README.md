@@ -28,7 +28,7 @@
 
 I am a Front-end Developer based in Sherbrooke 🇨🇦.
 
-- :telescope: I’m currently working on a <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> web application that allows clients to customize there products.
+- :telescope: I’m currently working on a <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> decentralized application ( dApp ) on Ethereum.
 
 - :seedling: Always exploring trying to learn new things.
 
